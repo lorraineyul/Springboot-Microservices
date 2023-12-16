@@ -1,2 +1,8 @@
-package com.lorraine.clients.notification;public class NotificationRequest {
+package com.lorraine.clients.notification;
+
+public record NotificationRequest(
+        Integer toCustomerId,
+        String toCustomerName,
+        String message
+) {
 }

@@ -1,2 +1,4 @@
-package com.lorraine.clients.fraud;public class FraudCheckResponse {
+package com.lorraine.clients.fraud;
+
+public record FraudCheckResponse(Boolean isFraudster) {
 }

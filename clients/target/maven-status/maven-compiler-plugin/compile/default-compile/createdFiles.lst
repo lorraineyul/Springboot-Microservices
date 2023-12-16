@@ -1,0 +1,4 @@
+com/lorraine/clients/fraud/FraudClient.class
+com/lorraine/clients/fraud/FraudCheckResponse.class
+com/lorraine/clients/notification/NotificationClient.class
+com/lorraine/clients/notification/NotificationRequest.class
