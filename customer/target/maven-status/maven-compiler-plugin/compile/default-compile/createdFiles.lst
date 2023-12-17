@@ -1,0 +1,9 @@
+com/lorraine/customer/FraudCheckResponse.class
+com/lorraine/customer/CustomerController.class
+com/lorraine/customer/CustomerApplication.class
+com/lorraine/customer/Customer$CustomerBuilder.class
+com/lorraine/customer/CustomerRepository.class
+com/lorraine/customer/CustomerRegistrationRequest.class
+com/lorraine/customer/Customer.class
+com/lorraine/customer/CustomerService.class
+com/lorraine/customer/CustomerConfig.class

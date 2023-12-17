@@ -29,6 +29,8 @@
     <spring.boot.dependecies.version>3.1.5</spring.boot.dependecies.version>
     <spring.boot.maven.plugin.version>3.1.5</spring.boot.maven.plugin.version>
     <spring-cloud.version>2022.0.4</spring-cloud.version>
+    <maven-jar-plugin.version>3.1.1</maven-jar-plugin.version>
+    <image>lorraineyul/${project.artifactId}:${project.version}</image>
   </properties>
 
   <dependencyManagement>
@@ -62,7 +64,6 @@
         <plugin>
           <groupId>org.springframework.boot</groupId>
           <artifactId>spring-boot-maven-plugin</artifactId>
-          <version>${spring.boot.maven.plugin.version}</version>
           <executions>
             <execution>
               <goals>

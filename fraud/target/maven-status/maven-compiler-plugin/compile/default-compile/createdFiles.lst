@@ -1,0 +1,7 @@
+com/javamicroservice/fraud/FraudCheckService.class
+com/javamicroservice/fraud/FraudCheckResponse.class
+com/javamicroservice/fraud/FraudCheckHistory.class
+com/javamicroservice/fraud/FraudApplication.class
+com/javamicroservice/fraud/FraudCheckHistoryRepository.class
+com/javamicroservice/fraud/FraudController.class
+com/javamicroservice/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
